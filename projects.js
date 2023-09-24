@@ -2,21 +2,21 @@ const projects = [{
 
         title: "Weather App",
         description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
-        sourceLink: "https://github.com/devs-nest/DN3-Frontend-Streams/tree/main/Day%2013%20%26%2014%20-%20Weather%20app"
+        sourceLink: ""
     },
 {
     title: "Ecommerce App",
     description: "Ecommece app built using React, Material UI, Redux Toolkit",
    
     
-    sourceLink: "https://github.com/devs-nest/dn3-ecommerce-app"
+    sourceLink: ""
 },
 {
     title: "Spotify Clone",
     description: "Spotify Clone created using Vanilla JS, Tailwind CSS, Vite",
     
     
-    sourceLink: "https://github.com/devs-nest/DN3-SpotifyClone"
+    sourceLink: ""
 },
 ];
 
